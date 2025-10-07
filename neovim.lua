@@ -1,5 +1,13 @@
 return {
-	{ "everviolet/nvim" },
+	{
+		"everviolet/nvim",
+		opts = {
+			theme = {
+				variant = "fall",
+				accent = "green",
+			},
+		},
+	},
 	{
 		"LazyVim/LazyVim",
 		opts = {
