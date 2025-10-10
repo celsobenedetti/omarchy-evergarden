@@ -1,21 +1,21 @@
-## name: evergarden fall green
+## name: evergarden fall skye
 ## author: comfysage
 ## license: GPL-3.0
 ## blurb: a comfy colorscheme for cozy morning coding
 
 [colors.primary]
 background = "#232a2e"
-foreground = "#f8f9e8"
+foreground = "#F8F9E8"
 dim_foreground = "#96b4aa"
 bright_foreground = "#f8f9e8"
 
 [colors.cursor]
 text = "#171c1f"
-cursor = "#cbe3b3"
+cursor = "#b3e6db"
 
 [colors.vi_mode_cursor]
 text = "#171c1f"
-cursor = "#cbe3b3"
+cursor = "#b3e6db"
 
 [colors.search.matches]
 foreground = "#f7a182"
