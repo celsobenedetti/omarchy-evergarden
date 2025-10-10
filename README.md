@@ -11,5 +11,5 @@ git clone https://github.com/celsobenedetti/omarchy-evergarden.git ~/.config/oma
 
 # or 
 git clone https://github.com/celsobenedetti/omarchy-evergarden.git ~/local/omarchy-evergarden
-ln -d ~/local/omarchy-evergarden/ ~/.config/omarchy/themes/evergarden
+ln -s ~/local/omarchy-evergarden/ ~/.config/omarchy/themes/evergarden
 ```
