@@ -4,7 +4,7 @@ return {
 		opts = {
 			theme = {
 				variant = "fall",
-				accent = "green",
+				accent = "skye",
 			},
 		},
 	},
