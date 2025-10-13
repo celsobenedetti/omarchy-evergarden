@@ -1,6 +1,6 @@
 # omarchy-evergarden
 
-This is an [Evergarden](https://everviolet.xyz/) theme port for [Omarchy](https://omarchy.org/).
+[Omarchy](https://omarchy.org/) port of the [Evergarden](https://everviolet.xyz/) theme.
 
 ![demo](./.github/assets/demo.png)
 
