@@ -1,6 +1,7 @@
 return {
 	{
 		"everviolet/nvim",
+		name = "evergarden",
 		opts = {
 			theme = {
 				variant = "fall",
