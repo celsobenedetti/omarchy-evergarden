@@ -1,6 +1,6 @@
 return {
 	{
-		"everviolet/nvim",
+		"https://codeberg.org/evergarden/nvim",
 		name = "evergarden",
 		opts = {
 			theme = {
